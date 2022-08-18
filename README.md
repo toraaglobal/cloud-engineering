@@ -6,6 +6,7 @@ Cloud Enginnering
     * [Develop a solution using Amazon API Gateway](./dev-on-aws/dev-AWS-API-Gateway/)
     * [AWS Lambda](./dev-on-aws/dev-AWS-Lambda/api)
     * [PollyNotes Application](./dev-on-aws/polly-apps/)
+        * [Integrate with X-Ray and deployed Apps using SAM CLI](./dev-on-aws/polly-apps/integrate-with-x-ray/)
 * [Developing on Google cloud](./dev-on-gcs/)
     * [Building an IoT Pipeline on Gogle Cloud](./dev-on-gcs/IoTPipeline/)
     * [Dataflow](./dev-on-gcs/Dataflow/)
