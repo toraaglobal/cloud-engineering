@@ -13,7 +13,7 @@ Cloud Enginnering
         * [Video Intelligence](./dev-on-gcs/GoogleAPI/VideoIntelligenceAPI/)
         * [Google Speach API](./dev-on-gcs/GoogleAPI/SpeachAPI/)
         * [Google NL API](./dev-on-gcs/GoogleAPI/NLPAPI/)
-* [AWS Lambda](./dev-on-aws/dev-AWS-Lambda/api)
+    * [AWS Lambda](./dev-on-aws/dev-AWS-Lambda/api)
 
 
     
