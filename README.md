@@ -1,3 +1,4 @@
+***
 Cloud Enginnering
 ***
 * [Developing on AWS](./dev-on-aws/)
@@ -15,7 +16,9 @@ Cloud Enginnering
         * [Video Intelligence](./dev-on-gcs/GoogleAPI/VideoIntelligenceAPI/)
         * [Google Speach API](./dev-on-gcs/GoogleAPI/SpeachAPI/)
         * [Google NL API](./dev-on-gcs/GoogleAPI/NLPAPI/)
-    
+* [Bash Scripting](./scripts/)
+    * [File backup](./scripts/backup.sh)
+    * [Secret game](./scripts/secret_game.sh)
 
 
     
