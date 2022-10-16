@@ -11,6 +11,7 @@ Cloud Enginnering
     * [Fargate](./dev-on-aws/fargate/)
         * [Build infrastructure to support fargate application](./dev-on-aws/fargate/build_infras.sh)
         * [Fargate application deployment demo](./dev-on-aws/fargate/deploy_application.sh)
+    * [Building Modern Python Applications on AWS](./dev-on-aws/BuildingModernAppsDemoCode/)
 * [Developing on Google cloud](./dev-on-gcs/)
     * [Building an IoT Pipeline on Gogle Cloud](./dev-on-gcs/IoTPipeline/)
     * [Dataflow](./dev-on-gcs/Dataflow/)
